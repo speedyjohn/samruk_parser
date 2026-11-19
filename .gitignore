@@ -1,0 +1,8 @@
+zakup_*/
+*.jsonl
+*.jsonl.gz
+*.ids
+
+__pycache__/
+*.pyc
+*.bak
